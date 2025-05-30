@@ -33,9 +33,7 @@ Edit your API keys and parameters in:
 config/
 ```
 
-### 3️ Run the framework
-
-#### **Jupyter Notebooks (recommended)**
+### 3️ Run the framework in **Jupyter Notebooks (recommended)**
 
 Launch Jupyter:
 
@@ -47,13 +45,13 @@ jupyter notebook
 
 Then open and run one of the following:
 
-- **Without RAG** →  
-  `00 - S2G-MAS-SR-NoRag.ipynb`
+- **Without RAG**: 
+  - `00 - S2G-MAS-SR-NoRag.ipynb`
 
-- **With RAG** →  
-  `00 - S2G-MAS-SR-Rag.ipynb`
+- **With RAG**:  
+  - `00 - S2G-MAS-SR-Rag.ipynb`
 
-### Outputs
+### 4 Outputs
 
 Logs and generated outputs will be stored in:
 
