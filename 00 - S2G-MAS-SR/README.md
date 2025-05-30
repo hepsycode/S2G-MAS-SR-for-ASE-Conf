@@ -21,11 +21,11 @@ The MAS orchestrates a network of agents via LangGraph:
 
 ## How to Run
 
-### 1️ Install dependencies:
+- ### 1 Install dependencies:
 
 Dependencies are listed in the `requirements.txt` file.
 
-### 2️ Configure your API keys
+- ### 2 Configure your API keys
 
 Edit your API keys and parameters in:
 
@@ -33,7 +33,7 @@ Edit your API keys and parameters in:
 config/
 ```
 
-### 3️ Run the framework in **Jupyter Notebooks (recommended)**
+- ### 3 Run the framework in **Jupyter Notebooks (recommended)**
 
 Launch Jupyter:
 
@@ -51,13 +51,15 @@ Then open and run one of the following:
 - **With RAG**:  
   - `00 - S2G-MAS-SR-Rag.ipynb`
 
-### 4 Outputs
+- ### 4 Outputs
 
 Logs and generated outputs will be stored in:
 
 ```
 /00 - Query/
 ```
+
+---
 
 ## Sustainability Tracking
 
