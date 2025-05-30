@@ -1,0 +1,9 @@
+emissions: Emissions as CO₂-equivalents [CO₂eq], in kg
+emissions_rate: emissions divided per duration, in Kg/s
+cpu_power: CPU power (W)
+gpu_power: GPU power (W)
+ram_power: RAM power (W)
+cpu_energy: Energy used per CPU (kWh)
+gpu_energy: Energy used per GPU (kWh)
+ram_energy: Energy used per RAM (kWh)
+energy_consumed: sum of cpu_energy, gpu_energy and ram_energy (kWh)

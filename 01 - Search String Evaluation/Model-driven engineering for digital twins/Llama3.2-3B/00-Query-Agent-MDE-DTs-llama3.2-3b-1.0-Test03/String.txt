@@ -1,0 +1,1 @@
+(Model-Driven Engineering OR Digital Twins OR Simulation-based Design OR Adaptive Reconfiguration) AND (Automation Techniques OR Artificial Intelligence OR Machine Learning OR Process Automation) AND (application OR implementation OR application OR study)

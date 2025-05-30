@@ -1,0 +1,1 @@
+( Autonomous AND Cyber-Physical OR Production Systems ) OR ( Model-Based AND Evaluation ) AND ( Trustworthiness AND Aspects ) AND ( Research Trends OR Studies ), ( Modeling Languages OR Software Tools ) ) AND ( Scopus higher than 2006)

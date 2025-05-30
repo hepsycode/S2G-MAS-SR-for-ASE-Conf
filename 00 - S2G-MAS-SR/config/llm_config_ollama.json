@@ -1,0 +1,12 @@
+{
+    "_comment": "llama3.1-8b deepseek-r1-7B llama3.1:8b llama3.2-3B gemma2-2b llama3.2-1B llama3.2-3B phi3-3.8B deepseek-r1-1.5 deepseek-r1-7B",
+    "llm": "llama3.1",
+    "price_per_input_token": 0.000002,
+    "price_per_output_token": 0.000006,
+    "temperature": 0.0,
+    "max_retries": 2,
+    "api_keys": {
+        "llama3.1:8b": "ollama"
+    },
+    "base_url": "http://localhost:11434/v1"
+}

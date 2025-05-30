@@ -1,0 +1,1 @@
+( ModelDrivenEngineering OR MDE OR ModelDrivenDevelopment OR MDD OR ModelBasedEngineering ) AND ( DigitalTwins OR VirtualTwins OR CyberPhysicalSystems OR CPS OR DigitalRepresentations ) AND ( AutomationTechniques OR MachineLearning OR Simulation OR CodeGeneration OR Optimization ) AND ( Manufacturing OR Healthcare OR Automotive OR SmartCities OR IndustrialApplications )

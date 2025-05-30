@@ -1,0 +1,22 @@
+Research Questions:
+
+RQ0: What are the bibliometric key facts of peer-reviewed literature documenting applications of MDE to DTs?
+RQ0.1: In which years are they published?
+RQ0.2: In which types of venues are they published?
+
+RQ1: How and how often are automation techniques applied to DTs in peer-reviewed literature?
+RQ1.1: How often are the different automation techniques applied in the context of DTs?
+RQ1.2: Which modeling artifacts and software artifacts are used by these automation techniques?
+RQ1.3: Which combinations of input and output artifacts are used by these automation techniques?
+RQ1.4: What is the research type of the studies that apply these automation techniques?
+
+RQ2: To which types of DTs are automation techniques applied in peer-reviewed literature?
+RQ2.1: Which TT does the DT represent, in which SLCP of the TT are automation techniques applied, and what is the TLCP of DTs to which automation techniques are applied?
+RQ2.2: How does the application of automation techniques (identified with RQ1) vary for different DT types?
+
+RQ3: In which domains are automation techniques applied to DTs in peer-reviewed literature?
+RQ3.1: For which domains are automation techniques applied to DTs?
+RQ3.2: How does the application of automation techniques (identified with RQ1) vary for the identified domains?
+RQ3.3: How does the DT type (identified with RQ2) vary for the identified domains?
+
+Database: Scopus

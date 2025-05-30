@@ -1,0 +1,1 @@
+( ModelDrivenEngineering OR MDE OR DomainModels OR ConceptualModels OR SoftwareDevelopment ) AND ( DigitalTwins OR VirtualRepresentations OR PhysicalEntities OR Simulation OR Optimization ) AND ( AutomationTechniques OR ModelTransformation OR CodeGeneration OR SimulationTools OR DataAnalytics ) AND ( PeerReviewed OR Literature OR Publications OR Journals OR Conferences )

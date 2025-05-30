@@ -1,0 +1,17 @@
+LLM,Group,RAG_Type,String_Consistency,Result_Consistency,Num_Tests
+Gemma2-2b,00-Query-Agent-MDE-DTs-gemma2-2b-0.0,No-RAG-WEB,0.8444,0.5758,3
+Gemma2-2b,00-Query-Agent-MDE-DTs-gemma2-2b-1.0,No-RAG-WEB,0.163,0.1304,4
+Gemma2-2b,00-Query-Agent-RAG-WEB-MDE-DTs-gemma2-2b-0.0,RAG-WEB,0.5226,0.1755,3
+Gemma2-2b,00-Query-Agent-RAG-WEB-MDE-DTs-gemma2-2b-1.0,RAG-WEB,0.2262,0.1509,3
+Llama3.1-8B,00-Query-Agent-MDE-DTs-llama3.1-0.0,No-RAG-WEB,1.0,1.0,2
+Llama3.1-8B,00-Query-Agent-MDE-DTs-llama3.1-1.0,No-RAG-WEB,0.3142,0.0,3
+Llama3.1-8B,00-Query-Agent-RAG-WEB-MDE-DTs-llama3.1-0.0,RAG-WEB,0.3243,0.0257,3
+Llama3.1-8B,00-Query-Agent-RAG-WEB-MDE-DTs-llama3.1-1.0,RAG-WEB,0.3418,0.0165,3
+Llama3.2-3B,00-Query-Agent-MDE-DTs-llama3.2-3b-0.0,No-RAG-WEB,1.0,1.0,3
+Llama3.2-3B,00-Query-Agent-MDE-DTs-llama3.2-3b-1.0,No-RAG-WEB,0.1426,0.0191,3
+Llama3.2-3B,00-Query-Agent-RAG-WEB-MDE-DTs-llama3.2-3b-0.0,RAG-WEB,0.2856,0.012,3
+Llama3.2-3B,00-Query-Agent-RAG-WEB-MDE-DTs-llama3.2-3b-1.0,RAG-WEB,0.5729,0.3515,3
+Mistral-Large,00-Query-Agent-MDE-DTs-mistral-large-latest-0.0,No-RAG-WEB,0.9432,0.8741,3
+Mistral-Large,00-Query-Agent-MDE-DTs-mistral-large-latest-1.0,No-RAG-WEB,0.4791,0.2325,3
+Mistral-Large,00-Query-Agent-RAG-WEB-MDE-DTs-mistral-large-latest-0.0,RAG-WEB,0.4709,0.3333,3
+Mistral-Large,00-Query-Agent-RAG-WEB-MDE-DTs-mistral-large-latest-1.0,RAG-WEB,0.256,0.0182,3

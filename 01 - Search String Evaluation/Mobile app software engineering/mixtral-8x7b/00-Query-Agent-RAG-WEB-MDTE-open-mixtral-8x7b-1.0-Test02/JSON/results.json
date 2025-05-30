@@ -1,0 +1,20 @@
+{
+    "response_length": 377,
+    "execution_time": 8.341432332992554,
+    "temperature": 1.0,
+    "usage": {
+        "input_tokens": 1059,
+        "output_tokens": 62,
+        "total_tokens": 1121,
+        "input_token_details": {
+            "audio": 0,
+            "cache_read": 0
+        },
+        "output_token_details": {
+            "audio": 0,
+            "reasoning": 0
+        }
+    },
+    "price_usd": 0.001245,
+    "model_name": "open-mixtral-8x7b"
+}

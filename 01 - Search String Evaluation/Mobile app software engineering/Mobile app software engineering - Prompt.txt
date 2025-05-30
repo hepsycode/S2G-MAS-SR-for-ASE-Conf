@@ -1,0 +1,15 @@
+Objectives: Provide an overview and analysis of secondary studies of mobile app
+software engineering for researchers and practitioners
+
+Research Questions:
+
+RQ1: How many systematic secondary studies on mobile app software engineering have been published? 
+RQ2: What research topics were addressed in these SRs/SMSs? 
+RQ3: What phases of mobile app development are addressed in these secondary studies? 
+RQ4: What are the key trends in mobile app development as reported in these secondary studies? 
+RQ5: What is the overall quality of these mobile app SE secondary studies? 
+RQ6: What are the key recommendations made for future research studies? 
+RQ7: Are any useful recommendations for practitioners made in the secondary studies?
+
+Database: Scopus
+Publication year higher than 2012

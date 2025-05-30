@@ -1,0 +1,45 @@
+Paper ID,Title,Authors,Year
+P01,Lightweight Mutual Authentication and Privacy-Preservation Scheme for Intelligent Wearable Devices in Industrial-CPS,Jane et al.,2022
+P02,On the impact of empirical attack models targeting marine transportation,Bou-Harb et al.,2020
+P03,A New Threat Intelligence Scheme for Safeguarding Industry 4.0 Systems,Moustafa et al.,2019
+P04,Trustworthiness Modeling and Analysis of Cyber-physical Manufacturing Systems,Yu et al.,2016
+P05,Dynamic Probabilistic Model Checking for Sensor Validation in Industry 4.0 Applications,Xin et al.,2020
+P06,Orthogonal Uncertainty Modeling in the Engineering of Cyber-Physical Systems,Bandyszak et al.,2020
+P07,A model-based approach to qualified process automation for anomaly detection and treatment,Chen et al.,2016
+P08,Fostering concurrent engineering of cyber-physical systems: a proposal for an ontological context framework,Duan et al.,2016
+P09,Integrated toolchain for model-based design of Cyber-Physical Systems: The INTO-CPS project,Larsen et al.,2016
+P10,Optimal replacement model for the physical component of safety-critical smart-world CPSs,Alemayehu et al.,2021
+P11,Towards Model-Based Performability Evaluation of Production Systems,Bucaioni et al.,2020
+P12,Use case-based consideration of safety and security in cyber-physical production systems applied to a collaborative robot system,Lichte et al.,2018
+P13,An Emerging Industrial Business Model considering Sustainability Evaluation and using Cyber-Physical System Technology and Modeling Techniques,Watanabe et al.,2016
+P14,A simulation-based platform for assessing the impact of cyber-threats on smart manufacturing systems,Bracho et al.,2018
+P15,Self-adaptive traffic control model with Behavior Trees and Reinforcement Learning for AGV in Industry 4.0,Hao et al.,2021
+P16,A Smart Maintenance tool for a safe Electric Arc Furnace,Fumagalli et al.,2016
+P17,SAVE: Security & safety by model-based systems engineering on the example of automotive industry,Jasp et al.,2021
+P18,Simulation-As-A-Service: A simulation platform for cyber-physical systems,Treichelt et al.,2021
+P19,An Architecture-based Modeling Approach Using Data Flows for Zone Concepts in Industry 4.0,Kern et al.,2020
+P20,Resilient fault diagnosis under imperfect observations – A need for Industry 4.0 era,White et al.,2020
+P21,GAN-Sec: Generative Adversarial Network Modeling for the Security Analysis of Cyber-Physical Production Systems,Chhetri et al.,2019
+P22,5-dimensional definition for a manufacturing digital twin,Bazaz et al.,2019
+P23,Finding dependencies between cyber-physical domains for security testing of industrial control systems,Castellanos et al.,2018
+P24,Robust Digital Twin Compositions for Industry 4.0 Smart Manufacturing Systems,Preiveneers et al.,2018
+P25,Enhancing cyber-physical security in manufacturing through game-theoretic analysis,Desmit et al.,2018
+P26,Security viewpoint in a reference architecture model for cyber-physical production systems,Ma et al.,2017
+P27,Multi-Scale Software Network Model for Software Safety of the Intended Functionality,Zhitao et al.,2021
+P28,Buoy Sensor Cyberattack Detection in Offshore Petroleum Cyber-Physical Systems,Lin et al.,2020
+P29,Enhancing IIoT networks protection: A robust security model for attack detection in Internet Industrial Control Systems,Khan et al.,2022
+P30,Novel model for boosting security strength and energy efficiency in internet-of-things using multi-staged game,Ambore et al.,2019
+P31,Cyber-Physical Security Evaluation in Manufacturing Systems with a Bayesian Game Model,Ali Reza et al.,2020
+P32,Model-based documentation of context uncertainty for cyber-physical systems,Torsten et al.,2018
+P33,Enabling model testing of cyber-physical systems,González et al.,2018
+P34,Cybersecurity analysis of smart manufacturing system using game theory approach and quantal response equilibrium,Ali Reza et al.,2018
+P35,Attack path analysis for cyber-physical systems,Georgios et al.,2020
+P36,Cyber-physical vulnerability assessment in manufacturing systems,De Smit et al.,2016
+P37,An S4PR class Petri net supervisor for manufacturing system,MH et al.,2016
+P38,A game-theoretic approach to model and quantify the security of cyber-physical systems,Orojloo H et al.,2017
+P39,An approach to cyber-physical vulnerability assessment for intelligent manufacturing systems,De Smit et al.,2017
+P40,Modeling availability risks of IT threats in smart factory networks – a modular Petri net approach,Berger et al.,2019
+P41,A Semantic Framework with Humans in the Loop for Vulnerability Assessment in Cyber-Physical Production Systems,Jiang et al.,2019
+P42,IT Availability Risks in Smart Factory Networks – Analyzing the Effects of IT Threats on Production Processes Using Petri Nets,Berger et al.,2022
+P43,Model-based Stochastic Error Propagation Analysis for Cyber-Physical Systems,Fabarisov et al.,2020
+P44,Threat modeling for industrial cyber-physical systems in the era of smart manufacturing,Jbair et al.,2022

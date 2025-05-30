@@ -1,0 +1,1 @@
+( model-based OR model Evaluation ) AND ( Trustworthiness aspects OR trustworthiness attributes ) AND (Autonomous Cyber-Physical OR cyber-physical production ) AND (Research Trends OR research publications ) AND (Software Tools OR Evaluation tools ) AND ( Scopus database OR database)

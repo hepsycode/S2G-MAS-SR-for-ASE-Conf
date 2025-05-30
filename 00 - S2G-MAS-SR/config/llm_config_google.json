@@ -1,0 +1,12 @@
+{
+    "_comment": "gemini-1.5-pro",
+    "llm": "gemini-1.5-pro",
+    "price_per_input_token": 0.000002,
+    "price_per_output_token": 0.000006,
+    "temperature": 0.0,
+    "max_retries": 2,
+    "api_keys": {
+        "gemini-1.5-pro": ""
+    },
+    "base_url": ""
+}

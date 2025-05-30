@@ -1,0 +1,1 @@
+( Model-Driven Engineering OR Digital Twins OR Model Driven Engineering ) AND ( Automation Techniques OR Processes OR Tools ) AND ( Peer Reviewed Journal Article OR Peer Reviews ) AND Scopus)

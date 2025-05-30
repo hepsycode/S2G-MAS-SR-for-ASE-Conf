@@ -1,0 +1,1 @@
+ (Model-Driven Engineering OR Digital Twins OR Automation Techniques OR Peer-Reviewed Literature OR Bibliometric Analysis) AND (Year Published OR Publication Venue OR Research Type OR Modeling Artifacts OR Software Artifacts OR Input Output Artifacts)

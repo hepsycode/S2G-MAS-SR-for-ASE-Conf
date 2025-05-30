@@ -1,0 +1,1 @@
+ ( mobile app OR mobile application OR smartphone app ) AND ( software engineering OR software development OR software process ) AND ( secondary study OR systematic review OR systematic mapping study ) AND ( research trends OR development phases OR quality assessment OR future recommendations OR practitioner insights ) 

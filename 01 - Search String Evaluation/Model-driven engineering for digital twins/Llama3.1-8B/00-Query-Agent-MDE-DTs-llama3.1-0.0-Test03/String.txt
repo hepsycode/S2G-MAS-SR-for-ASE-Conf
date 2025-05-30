@@ -1,0 +1,1 @@
+( Model-Driven Engineering OR Digital Twins OR Peer-reviewed literature ) AND ( Automation techniques OR Software artifacts OR Modeling artifacts ) AND ( Types of venues OR Publication years OR Research type ) AND ( Domain-specific applications OR Industry-specific applications OR Application areas )

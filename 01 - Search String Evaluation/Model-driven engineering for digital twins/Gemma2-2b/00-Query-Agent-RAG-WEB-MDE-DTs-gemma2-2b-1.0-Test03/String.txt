@@ -1,0 +1,1 @@
+ ( Model Driven Engineering OR Digital Twins OR automation techniques OR bibliometric analysis OR peer reviewed literature ) AND ( model transformation OR code generation OR simulation OR UML diagrams OR SysML models ) AND ( manufacturing OR healthcare OR automotive OR aerospace OR predictive maintenance )

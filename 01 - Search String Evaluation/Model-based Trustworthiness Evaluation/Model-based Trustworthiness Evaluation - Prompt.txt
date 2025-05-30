@@ -1,0 +1,16 @@
+Research Goals defined using the Goal-Question-Metric:
+
+Purpose: Issue Object Identify, classify, and evaluate 
+Issue: publication trends, supporting tools, and applications 
+Object: model-based evaluation of trustworthiness aspects in cyber-physical production systems 
+Viewpoint: researchers and practitioners.
+
+Research Questions:
+
+RQ1: What are the main research trends in the model-based evaluation of Autonomous Cyber-Physical Production Systems’s trustworthiness? 
+RQ2: Which aspects and attributes of trustworthiness are addressed by current studies? 
+RQ3: Which are the main modeling languages used for evaluating trustworthiness in Autonomous Cyber-Physical Production Systems? 
+RQ4: What model-based software tools have been used to evaluate trustworthiness in Autonomous Cyber-Physical Production Systems?
+
+Database: Scopus
+Publication year higher than 2006

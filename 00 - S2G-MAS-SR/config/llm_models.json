@@ -1,0 +1,182 @@
+{
+    "_comment_1": "Mistral Models",
+    "mistral-large-latest": {
+        "class": "ChatMistralAI",
+        "params": {
+            "model": "mistral-large-latest"
+        }
+    },
+    "pixtral-large-latest": {
+        "class": "ChatMistralAI",
+        "params": {
+            "model": "pixtral-large-latest"
+        }
+    },
+    "ministral-3b-latest": {
+        "class": "ChatMistralAI",
+        "params": {
+            "model": "ministral-3b-latest"
+        }
+    },
+    "open-mistral-7b": {
+        "class": "ChatMistralAI",
+        "params": {
+            "model": "open-mistral-7b"
+        }
+    },
+    "ministral-8b-latest": {
+        "class": "ChatMistralAI",
+        "params": {
+            "model": "ministral-8b-latest"
+        }
+    },
+    "open-mixtral-8x7b": {
+        "class": "ChatMistralAI",
+        "params": {
+            "model": "open-mixtral-8x7b"
+        }
+    },
+    "mistral-small-latest": {
+        "class": "ChatMistralAI",
+        "params": {
+            "model": "mistral-small-latest"
+        }
+    },
+    "mistral-medium-2505": {
+        "class": "ChatMistralAI",
+        "params": {
+            "model": "mistral-medium-2505"
+        }
+    },
+    "_comment_2": "OpenAI Models",
+    "gpt-4o-2024-08-06": {
+        "class": "ChatOpenAI",
+        "params": {
+            "model": "gpt-4o-2024-08-06"
+        }
+    },
+    "gpt-4o-mini-2024-07-18": {
+        "class": "ChatOpenAI",
+        "params": {
+            "model": "gpt-4o-mini-2024-07-18"
+        }
+    },
+    "gpt-4o": {
+        "class": "ChatOpenAI",
+        "params": {
+            "model": "gpt-4o"
+        }
+    },
+    "gpt-4-turbo-2024-04-09": {
+        "class": "ChatOpenAI",
+        "params": {
+            "model": "gpt-4-turbo-2024-04-09"
+        }
+    },
+    "gpt-4": {
+        "class": "ChatOpenAI",
+        "params": {
+            "model": "gpt-4"
+        }
+    },
+    "gpt-3.5-turbo-0125": {
+        "class": "ChatOpenAI",
+        "params": {
+            "model": "gpt-3.5-turbo-0125"
+        }
+    },
+    "gpt-3.5-turbo-1106": {
+        "class": "ChatOpenAI",
+        "params": {
+            "model": "gpt-3.5-turbo-1106"
+        }
+    },
+    "_comment_3": "Ollama Models",
+    "llama3.2-32k": {
+        "class": "ChatOpenAI",
+        "params": {
+            "model": "llama3.2-32k"
+        }
+    },
+    "llama3.2:1b": {
+        "class": "ChatOpenAI",
+        "params": {
+            "model": "llama3.2:1b"
+        }
+    },
+    "_comment_4": "Anthropic Models",
+    "claude-3-5-sonnet-20241022": {
+        "class": "ChatAnthropic",
+        "params": {
+            "model": "claude-3-5-sonnet-20241022"
+        }
+    },
+    "_comment_5": "Google Models",
+    "gemini-1.5-flash": {
+        "class": "ChatGoogleGenerativeAI",
+        "params": {
+            "model": "gemini-1.5-flash"
+        }
+    },
+    "gemini-1.5-flash-8b": {
+        "class": "ChatGoogleGenerativeAI",
+        "params": {
+            "model": "gemini-1.5-flash-8b"
+        }
+    },
+    "gemini-1.5-pro": {
+        "class": "ChatGoogleGenerativeAI",
+        "params": {
+            "model": "gemini-1.5-pro"
+        }
+    },
+    "_comment_6": "Ollama Models",
+    "gemma2-2b": {
+        "class": "ChatOpenAI",
+        "params": {
+            "model": "gemma2-2b:2b"
+        }
+    },
+    "llama3.2-1B": {
+        "class": "ChatOpenAI",
+        "params": {
+            "model": "llama3.2-1B"
+        }
+    },
+    "llama3.2-3B": {
+        "class": "ChatOpenAI",
+        "params": {
+            "model": "llama3.2-3B"
+        }
+    },
+    "llama3.1": {
+        "class": "ChatOpenAI",
+        "params": {
+            "model": "llama3.1:8B"
+        }
+    },
+    "phi3-3.8B": {
+        "class": "ChatOpenAI",
+        "params": {
+            "model": "phi3-3.8B"
+        }
+    },
+    "mistral": {
+        "class": "ChatOpenAI",
+        "params": {
+            "model": "mistral"
+        }
+    },
+    "deepseek-r1-1.5": {
+        "class": "ChatOpenAI",
+        "params": {
+            "model": "deepseek-r1-1.5"
+        }
+    },
+    "deepseek-r1-7B": {
+        "class": "ChatOpenAI",
+        "params": {
+            "model": "deepseek-r1-7B"
+        }
+    }
+}

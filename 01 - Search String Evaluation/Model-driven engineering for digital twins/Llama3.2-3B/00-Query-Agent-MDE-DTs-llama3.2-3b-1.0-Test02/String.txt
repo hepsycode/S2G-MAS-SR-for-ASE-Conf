@@ -1,0 +1,1 @@
+( (Model-Driven Engineering OR Digital Twins OR Peer Review) AND (Applications OR Innovation OR Development) ) AND ( Automation OR Techniques OR Methods) AND (Digital Single Entity OR System OR Model) AND (Scopus OR Database OR Literature)

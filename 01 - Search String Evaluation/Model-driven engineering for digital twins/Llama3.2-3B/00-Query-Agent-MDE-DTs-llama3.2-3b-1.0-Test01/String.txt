@@ -1,0 +1,1 @@
+(Model-Driven Engineering OR Digital Twins OR Smart Cities OR Industrial Automation OR IoT) AND (Peer-Reviewed Literature OR Conference Proceedings OR Journal Articles OR Thesis OR Dissertations) AND (Digital Technology OR Artificial Intelligence OR Machine Learning OR Computer Science OR Engineering)

@@ -1,0 +1,1 @@
+( "Digital Twins" OR "Model-Driven Engineering" OR "Automation Techniques" OR "Peer-Reviewed Literature" OR "Bibliometric Analysis" ) AND ( "Application Areas" OR "Industry Domains" OR "Venues Types" OR "Publication Years" ) AND ( "Research Type Studies" OR "Studies Goals" OR "Software Artifacts Used" OR "Modeling Artifacts Applied" )

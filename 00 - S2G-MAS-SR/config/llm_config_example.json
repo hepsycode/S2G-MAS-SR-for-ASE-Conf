@@ -1,0 +1,12 @@
+{
+    "_comment": "mistral-large-latest",
+    "llm": "mistral-large-latest",
+    "price_per_input_token": 0.000002,
+    "price_per_output_token": 0.000006,
+    "temperature": 0.7,
+    "max_retries": 2,
+    "api_keys": {
+        "mistral-large-latest": "<mistral_api_key>"
+    },
+    "base_url": ""
+}

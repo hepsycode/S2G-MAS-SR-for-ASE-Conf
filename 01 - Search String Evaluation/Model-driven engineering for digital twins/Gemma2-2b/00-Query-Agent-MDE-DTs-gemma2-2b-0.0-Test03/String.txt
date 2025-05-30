@@ -1,0 +1,1 @@
+( Model-Driven Engineering OR Model Driven Engineering ) AND ( Digital Twins OR Digital Twin ) AND ( Automation Techniques OR Automating ) AND ( Peer-Reviewed Literature OR Journal Article ) AND ( Scopus OR Web of Science )

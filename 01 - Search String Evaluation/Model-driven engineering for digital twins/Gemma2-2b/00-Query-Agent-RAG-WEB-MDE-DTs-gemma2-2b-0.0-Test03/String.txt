@@ -1,0 +1,1 @@
+( Model Driven Engineering OR Digital Twins OR automation techniques OR bibliometric analysis OR peer reviewed literature ) AND ( domain models OR virtual representations OR physical entities OR system lifecycle OR simulation models ) AND ( manufacturing OR healthcare OR automotive OR aerospace OR predictive maintenance )

@@ -1,0 +1,12 @@
+{
+    "_comment": "mistral-large-latest, pixtral-large-latest, ministral-3b-latest, ministral-8b-latest, mistral-small-latest",
+    "llm": "mistral-large-latest",
+    "price_per_input_token": 0.000001,
+    "price_per_output_token": 0.000003,
+    "temperature": 0.0,
+    "max_retries": 2,
+    "api_keys": {
+        "mistral-large-latest": ""
+    },
+    "base_url": ""
+}

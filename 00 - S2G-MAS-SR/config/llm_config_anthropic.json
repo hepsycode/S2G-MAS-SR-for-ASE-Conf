@@ -1,0 +1,12 @@
+{
+    "_comment": "claude-3-5-sonnet-20241022",
+    "llm": "claude-3-5-sonnet-20241022",
+    "price_per_input_token": 0.000002,
+    "price_per_output_token": 0.000006,
+    "temperature": 0.0,
+    "max_retries": 2,
+    "api_keys": {
+        "claude-3-5-sonnet-20241022": ""
+    },
+    "base_url": ""
+}

@@ -1,0 +1,5 @@
+LLM,String_Consistency,Result_Consistency,Num_Tests
+Gemma2-2b,0.3154,0.1655,12
+Llama3.1-8B,0.4743,0.2947,12
+Mistral-Large,0.5217,0.3545,11
+mixtral-8x7b,0.6052,0.3561,11

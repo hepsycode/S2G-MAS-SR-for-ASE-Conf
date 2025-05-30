@@ -1,0 +1,153 @@
+Mistral Models (5 Models)
+
+mistral-large-latest
+Number of parameters: 123 billion
+Context window: 128,000 tokens
+Price per 1,000 tokens:
+Input: $0.002
+Output: $0.006
+Maximum tokens in output: 4,096
+Number of layers: Information not available
+
+pixtral-large-latest
+Number of parameters: 124 billion
+Context window: 128,000 tokens
+Price per 1,000 tokens:
+Input: $0.002
+Output: $0.006
+Maximum tokens in output: Information not available
+Number of layers: Information not available
+
+ministral-3b-latest
+Number of parameters: 3 billion
+Context window: 131,000 tokens
+Price per 1,000 tokens:
+Input: $0.00004
+Output: $0.00004
+Maximum tokens in output: Information not available
+Number of layers: Information not available
+
+ministral-8b-latest
+Number of parameters: 8 billion
+Context window: 131,000 tokens
+Price per 1,000 tokens:
+Input: $0.0001
+Output: $0.0001
+Maximum tokens in output: Information not available
+Number of layers: Information not available
+
+mistral-small-latest
+Number of parameters: Information not available
+Context window: 32,000 tokens
+Price per 1,000 tokens:
+Input: $0.002
+Output: $0.006
+Maximum tokens in output: Information not available
+Number of layers: Information not available
+
+OpenAI Models (7 Models)
+
+gpt-4o-2024-08-06
+Number of parameters: Information not available
+Context window: 128,000 tokens
+Price per 1,000 tokens:
+Input: $0.0025
+Output: $0.00125
+Maximum tokens in output: Information not available
+Number of layers: Information not available
+
+gpt-4o-mini-2024-07-18
+Number of parameters: Information not available
+Context window: 128,000 tokens
+Price per 1,000 tokens:
+Input: $0.00015
+Output: $0.000075
+Maximum tokens in output: Information not available
+Number of layers: Information not available
+
+gpt-4-turbo-2024-04-09
+Number of parameters: Information not available
+Context window: 128,000 tokens
+Price per 1,000 tokens:
+Input: $0.01
+Output: $0.03
+Maximum tokens in output: Information not available
+Number of layers: Information not available
+
+gpt-4
+Number of parameters: Information not available
+Context window: 128,000 tokens
+Price per 1,000 tokens:
+Input: $0.03
+Output: $0.06
+Maximum tokens in output: Information not available
+Number of layers: Information not available
+
+gpt-3.5-turbo-0125
+Number of parameters: Information not available
+Context window: 4,096 tokens
+Price per 1,000 tokens:
+Input: $0.0005
+Output: $0.0015
+Maximum tokens in output: 4,096
+Number of layers: Information not available
+
+gpt-3.5-turbo-1106
+Number of parameters: Information not available
+Context window: 16,000 tokens
+Price per 1,000 tokens:
+Input: $0.001
+Output: $0.002
+Maximum tokens in output: 16,000
+Number of layers: Information not available
+
+Ollama Models
+
+llama3.2-32k
+Number of parameters: 32 billion
+Context window: 32,000 tokens
+Price per 1,000 tokens:
+Input: Information not available
+Output: Information not available
+Maximum tokens in output: Information not available
+Number of layers: Information not available
+
+Anthropic Models
+
+claude-3-5-sonnet-20241022
+Number of parameters: Information not available
+Context window: 100,000 tokens
+Price per 1,000 tokens:
+Input: $0.003
+Output: $0.015
+Maximum tokens in output: Information not available
+Number of layers: Information not available
+
+Google Models (3 Models)
+
+gemini-1.5-flash
+Number of parameters: Information not available
+Context window: 8,192 tokens
+Price per 1,000 tokens:
+Input: $0.000075
+Output: $0.0003
+Maximum tokens in output: 8,192
+Number of layers: Information not available
+
+gemini-1.5-flash-8b
+Number of parameters: 8 billion
+Context window: 8,192 tokens
+Price per 1,000 tokens:
+Input: $0.0000375
+Output: $0.00015
+Maximum tokens in output: 8,192
+Number of layers: Information not available
+
+gemini-1.5-pro
+Number of parameters: Information not available
+Context window: 16,384 tokens
+Price per 1,000 tokens:
+Input: $0.00125
+Output: $0.005
+Maximum tokens in output: 16,384
+Number of layers: Information not available

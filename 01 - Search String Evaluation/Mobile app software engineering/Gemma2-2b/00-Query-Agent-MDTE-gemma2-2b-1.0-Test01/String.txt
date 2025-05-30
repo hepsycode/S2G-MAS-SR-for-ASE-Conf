@@ -1,0 +1,1 @@
+( mobile app software development OR mobile application software engineering ) AND ( systematic review OR survey ) AND ( secondary studies OR literature review ) AND ( research topics OR areas of study ) AND ( phases of development OR stages of development ) AND ( mobile app software design )

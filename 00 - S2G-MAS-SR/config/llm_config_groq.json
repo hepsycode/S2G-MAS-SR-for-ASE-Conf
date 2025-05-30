@@ -1,0 +1,12 @@
+{
+    "_comment": "gemma2-9b-it distil-whisper-large-v3-en llama-3.3-70b-versatile llama-3.1-8b-instant",
+    "llm": "gemma2-9b-it",
+    "price_per_input_token": 0.000002,
+    "price_per_output_token": 0.000006,
+    "temperature": 1.0,
+    "max_retries": 2,
+    "api_keys": {
+        "gemma2-9b-it": ""
+    },
+    "base_url": "https://api.groq.com/openai/v1"
+}

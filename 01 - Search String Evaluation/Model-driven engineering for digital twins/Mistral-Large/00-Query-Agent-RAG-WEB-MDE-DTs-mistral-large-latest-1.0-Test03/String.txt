@@ -1,0 +1,1 @@
+( Model Driven Engineering OR MDE OR model based development ) AND ( Digital Twins OR virtual representations OR digital models ) AND ( automation techniques OR machine learning OR simulation based optimization ) AND ( bibliometric analysis OR publication trends OR research landscape ) AND ( software engineering OR systems engineering OR industrial applications )

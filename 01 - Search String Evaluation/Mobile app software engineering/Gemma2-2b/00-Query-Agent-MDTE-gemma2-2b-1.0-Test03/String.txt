@@ -1,0 +1,1 @@
+( systematic OR empirical ) AND ( secondary studies OR SRs OR SMSs ) AND ( mobile app OR application ) AND ( software engineering OR SE) ) AND ( ( phase OR phases ) AND ( development OR app development ) ) AND ( trends OR pattern OR analysis ) AND ( quality OR evaluation OR assessment ) AND ( recommendations OR future research OR next steps )

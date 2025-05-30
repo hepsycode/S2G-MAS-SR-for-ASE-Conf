@@ -1,0 +1,1 @@
+( Model Driven Engineering OR MDE OR Model Based Development ) AND ( Digital Twins OR Virtual Representations OR Cyber Physical Systems ) AND ( Automation Techniques OR Machine Learning OR Simulation Based Optimization ) AND ( Software Artifacts OR UML Diagrams OR SysML Models ) AND ( Manufacturing OR Healthcare OR Automotive ) 

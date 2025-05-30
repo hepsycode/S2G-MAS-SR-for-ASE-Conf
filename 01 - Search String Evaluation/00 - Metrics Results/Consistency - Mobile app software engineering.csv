@@ -1,0 +1,17 @@
+LLM,Group,RAG_Type,String_Consistency,Result_Consistency,Num_Tests
+Gemma2-2b,00-Query-Agent-MDTE-gemma2-2b-0.0,No-RAG-WEB,0.9722,0.8738,3
+Gemma2-2b,00-Query-Agent-MDTE-gemma2-2b-1.0,No-RAG-WEB,0.15,0.2808,3
+Gemma2-2b,00-Query-Agent-RAG-WEB-MDTE-gemma2-2b-0.0,RAG-WEB,0.7703,0.2137,3
+Gemma2-2b,00-Query-Agent-RAG-WEB-MDTE-gemma2-2b-1.0,RAG-WEB,0.7463,0.5015,3
+Llama3.1-8B,00-Query-Agent-MDTE-llama3.1-0.0,No-RAG-WEB,0.4435,0.3921,3
+Llama3.1-8B,00-Query-Agent-MDTE-llama3.1-1.0,No-RAG-WEB,0.9048,0.7672,3
+Llama3.1-8B,00-Query-Agent-RAG-WEB-MDTE-llama3.1-0.0,RAG-WEB,0.545,1.0,3
+Llama3.1-8B,00-Query-Agent-RAG-WEB-MDTE-llama3.1-1.0,RAG-WEB,0.5374,0.3483,3
+Mistral-Large,00-Query-Agent-MDTE-mistral-large-latest-0.0,No-RAG-WEB,1.0,1.0,3
+Mistral-Large,00-Query-Agent-MDTE-mistral-large-latest-1.0,No-RAG-WEB,0.9667,0.6165,3
+Mistral-Large,00-Query-Agent-RAG-WEB-MDTE-mistral-large-latest-0.0,RAG-WEB,0.828,1.0,2
+Mistral-Large,00-Query-Agent-RAG-WEB-MDTE-mistral-large-latest-1.0,RAG-WEB,0.9693,0.5556,3
+mixtral-8x7b,00-Query-Agent-MDTE-open-mixtral-8x7b-0.0,No-RAG-WEB,0.9048,0.7672,3
+mixtral-8x7b,00-Query-Agent-MDTE-open-mixtral-8x7b-1.0,No-RAG-WEB,0.9048,0.6165,3
+mixtral-8x7b,00-Query-Agent-RAG-WEB-MDTE-open-mixtral-8x7b-0.0,RAG-WEB,1.0,1.0,2
+mixtral-8x7b,00-Query-Agent-RAG-WEB-MDTE-open-mixtral-8x7b-1.0,RAG-WEB,1.0,1.0,2

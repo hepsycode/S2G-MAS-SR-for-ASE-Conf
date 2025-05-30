@@ -1,0 +1,1 @@
+( Model-Driven Engineering OR MDE ) AND ( Digital Twins OR DT ) AND ( Automation OR automated ) OR ( Robotics OR Process Automation OR Control ) ) AND ( Peer-Reviewed OR Journal Article OR Publication OR Research Papers OR Citation ) AND ( Scopus OR Web of Science )

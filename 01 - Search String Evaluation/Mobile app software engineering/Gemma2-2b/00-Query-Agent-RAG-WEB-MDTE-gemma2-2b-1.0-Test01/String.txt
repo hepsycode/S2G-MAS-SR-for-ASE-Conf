@@ -1,0 +1,1 @@
+( systematic review OR systematic mapping study OR secondary study ) AND ( mobile app development OR mobile software engineering OR mobile application ) AND ( user interface design OR performance optimization OR security and privacy ) AND ( agile methodologies OR artificial intelligence OR cross platform development ) AND ( PRISMA OR research methodology OR empirical study )

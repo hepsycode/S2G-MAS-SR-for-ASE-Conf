@@ -1,0 +1,1 @@
+( "Model-Driven Engineering" OR MDE OR "Model Driven Engineering" ) AND ( "Digital Twin" OR "Digital Twins" OR DT ) AND ( Automation OR "Automation Technique" OR "Automated Technique" )

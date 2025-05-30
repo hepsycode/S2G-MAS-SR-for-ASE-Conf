@@ -1,0 +1,92 @@
+• S1: Salazar, L. H. A., Lacerda, T., Nunes, J. V., & von Wangenheim,
+C. G. (2013). A systematic literature review on usability
+heuristics for mobile phones. International Journal of Mobile Human
+Computer Interaction (IJMHCI), 5(2), 50-61.
+• S2: M´endez Porras, A., Quesada L´opez, C. U., & Jenkins Coronas,
+M. (2015). Automated testing of mobile applications: A systematic
+map and review. Proceedings of the 28th Ibero-American
+Conference on Software Engineering (CIBSE). URP,SPC,UCSP,
+Lima, Peru, 1-14.
+• S3: Sahinoglu, M., Incki, K., & Aktas, M. S. (2015, June). Mobile
+application verification: a systematic mapping study. In International
+Conference on Computational Science and Its Applications
+(pp. 147-163). Springer, Cham.
+• S4: Reis, R. A. C., Font˜ao, A. D. L., Gomes, L. L., & Dias-Neto,
+A. C. (2015). Usability evaluation approaches for (ubiquitous) mobile
+applications: a systematic mapping study. In Proceedings of
+International Conference on Mobile Ubiquitous Computing, Systems,
+Services and Technologies. UBICOMM.
+• S5: Zein, S., Salleh, N., & Grundy, J. (2016). A systematic mapping
+study of mobile application testing techniques. Journal of
+Systems and Software, 117, 334-356.
+• S6: Holl, K., & Elberzhager, F. (2016, December). Quality assurance
+of mobile applications: A systematic mapping study. In
+Proceedings of the 15th International Conference on Mobile and
+Ubiquitous Multimedia (pp. 101-113).
+• S7: Sanchiz, E., Gonz´alez, M., Aquino, N., & Cernuzzi, L. (2017).
+Development of mobile applications with functions in the cloud
+through the model driven approach: a systematic mapping study.
+CLEI Electron. J., 20(3).
+• S8: Dar, H., Lali, M. I., Ashraf, H., Ramzan, M., Amjad, T., &
+Shahzad, B. (2018). A systematic study on software requirements
+elicitation techniques and its challenges in mobile application development.
+IEEE Access, 6, 63859-63867.
+• S9: Altaleb, A., & Gravell, A. (2018). Effort estimation across
+Mobile app platforms using agile processes: a systematic literature
+review. Journal of Software, 13(4), 242.
+• S10: Jabangwe, R., Edison, H., & Duc, A. N. (2018). Software
+engineering process models for mobile app development: A systematic
+literature review. Journal of Systems and Software, 145,
+98-111.
+• S11: Yaˆa, B. I., Salleh, N., Nordin, A., Idris, N. B., Abas, H., &
+Alwan, A. A. (2019). A systematic mapping study on cloud-based
+mobile application testing. Journal of Information and Communication
+Technology, 18(4), 485-527.
+• S12: Tramontana, P., Amalfitano, D., Amatucci, N., & Fasolino,
+A. R. (2019). Automated functional testing of mobile applications:
+a systematic mapping study. Software Quality Journal, 27(1), 149-
+201.
+• S13: Kaur, A., & Kaur, K. (2019). Investigation on test effort
+estimation of mobile applications: Systematic literature review
+and survey. Information and Software technology, 110, 56-77.
+• S14: Almeida, D. R., Machado, P. D., & Andrade, W. L. (2019).
+Testing tools for Android context-aware applications: a systematic
+mapping. Journal of the Brazilian Computer Society, 25(1), 1-22.
+• S15: Weichbroth, P. (2020). Usability of mobile applications: a
+systematic literature study. IEEE Access, 8, 55563-55577.
+• S16: Wimalasooriya, C., Licorish, S. A., da Costa, D. A., & Mac-
+Donell, S. G. (2021). A systematic mapping study addressing the
+reliability of mobile applications: The need to move beyond testing
+reliability. Journal of Systems and Software, 111166.
+• S17: Del Carpio, A. F., & Vera, Y. P. (2021, August). Architectural
+Approaches for Emerging Technologies-based Mobile Apps–a
+Systematic Mapping Study. In 2021 IEEE 12th International Conference
+on Software Engineering and Service Science (ICSESS)
+(pp. 16-23). IEEE.
+• S18: J´unior, M. C., Amalfitano, D., Garc´es, L., Fasolino, A. R.,
+Andrade, S. A., & Delamaro, M. (2022). Dynamic Testing Techniques
+of Non-functional Requirements in Mobile Apps: A Systematic
+Mapping Study. ACM Computing Surveys (CSUR), 54(10s),
+1-38.
+• S19: Jorayeva, M., Akbulut, A., Catal, C., & Mishra, A. (2022).
+Machine learning-based software defect prediction for mobile applications:
+A systematic literature review. Sensors, 22(7), 2551.
+• S20: da Silva, L. F., Parreira Junior, P. A., & Freire, A. P. (2022).
+Mobile User Interaction Design Patterns: A Systematic Mapping
+Study. Information, 13(5), 236.
+• S21: Kaur, A., & Kaur, K. (2018). Systematic literature review
+of mobile application development and testing effort estimation.
+Journal of King Saud University-Computer and Information Sciences,
+Volume 34, Issue 2, February 2022, Pages 1-15.
+• S22: Md. Shamsujjoha, John Grundy, Li Li, Hourieh Khalajzadeh,
+Qinghua Lu. (2021). Developing Mobile Applications Via
+Model Driven Development: A Systematic Literature Review, Information
+and Software Technology, Volume 140, 2021.
+• S23: Kong, Pingfan, Li Li, Jun Gao, Kui Liu, Tegawend´e F.
+Bissyand´e, and Jacques Klein. Automated testing of android apps:
+A systematic literature review. IEEE Transactions on Reliability
+68, no. 1 (2018): 45-66.
+• S24: Zhan, Xian, Tianming Liu, Lingling Fan, Li Li, Sen Chen,
+Xiapu Luo, and Yang Liu. Research on third-party libraries in
+android apps: A taxonomy and systematic literature review. IEEE
+Transactions

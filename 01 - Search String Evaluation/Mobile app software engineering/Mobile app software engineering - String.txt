@@ -1,0 +1,1 @@
+(”mobile” OR ”Android”) AND (”app” OR ”application”) AND (”systematic review” OR ”systematic literature review” OR ”systematic map” OR ”systematic mapping” OR ”mapping study”).

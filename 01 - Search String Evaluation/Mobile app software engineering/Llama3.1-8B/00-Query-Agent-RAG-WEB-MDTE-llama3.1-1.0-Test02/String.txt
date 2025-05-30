@@ -1,0 +1,1 @@
+( Systematic Review OR Systematic Mapping Study OR Secondary Study ) AND ( Mobile App Development OR Mobile Application OR Mobile Software ) AND ( Software Engineering OR Software Development OR Software Process ) AND ( User Interface Design OR Performance Optimization OR Security and Privacy ) AND ( Agile Methodologies OR Continuous Integration OR DevOps Practices )
