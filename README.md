@@ -53,11 +53,11 @@ This architecture is based on LangChain and LangGraph, and leverages Retrieval-A
 
 5. Run the multi-agent system notebook:
 
-- **Without RAG** →  
-  `00 - S2G-MAS-SR-NoRag.ipynb`
+- **Without RAG**:  
+  - `00 - S2G-MAS-SR-NoRag.ipynb`
 
-- **With RAG** →  
-  `00 - S2G-MAS-SR-Rag.ipynb`
+- **With RAG**: 
+  - `00 - S2G-MAS-SR-Rag.ipynb`
 
 6. Evaluate results and metrics using the provided notebooks:
 
