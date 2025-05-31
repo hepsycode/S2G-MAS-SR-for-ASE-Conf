@@ -36,7 +36,7 @@ sns.set(style="whitegrid")
 
 # Plot loop
 for metric in metrics:
-    plt.figure(figsize=(8, 4)) # 6,6
+    plt.figure(figsize=(6, 6)) # 6,6
     ax = sns.violinplot(
         data=df,
         x="Target",
@@ -57,8 +57,8 @@ for metric in metrics:
     ax.minorticks_on()
 
     # Axis titles in bold
-    ax.set_xlabel("Target", fontsize=18, fontweight='bold')
-    ax.set_ylabel(metric, fontsize=18, fontweight='bold')
+    ax.set_xlabel("Target", fontsize=24, fontweight='bold')
+    ax.set_ylabel(metric, fontsize=24, fontweight='bold')
 
     # Chart title in bold
     # ax.set_title(f"Distribution of {metric} by Target", fontsize=14, fontweight='bold')
@@ -69,8 +69,8 @@ for metric in metrics:
         spine.set_linewidth(1.2)
 
     # Tick label styling (bold and size 14)
-    ax.tick_params(axis='x', labelsize=14)
-    ax.tick_params(axis='y', labelsize=14)
+    ax.tick_params(axis='x', labelsize=16)
+    ax.tick_params(axis='y', labelsize=16)
 
     for label in ax.get_xticklabels() + ax.get_yticklabels():
         label.set_fontweight('bold')

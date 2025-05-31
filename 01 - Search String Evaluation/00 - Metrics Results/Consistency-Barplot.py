@@ -35,7 +35,7 @@ sns.set(style="whitegrid")
 
 # Plot loop
 for metric in metrics:
-    plt.figure(figsize=(8, 4))
+    plt.figure(figsize=(6, 6))
 
     # Compute Q1, median, Q3
     grouped = df.groupby("Target")[metric]

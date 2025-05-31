@@ -112,13 +112,13 @@ for metric in metrics:
     ax.yaxis.grid(True, which='major', linestyle='--', color='black', linewidth=0.8)
     ax.yaxis.grid(True, which='minor', linestyle=':', color='gray', linewidth=0.5)
     ax.minorticks_on()
-    ax.set_xlabel("Target", fontsize=18, fontweight='bold')
-    ax.set_ylabel(metric, fontsize=18, fontweight='bold')
+    ax.set_xlabel("Target", fontsize=24, fontweight='bold')
+    ax.set_ylabel(metric, fontsize=24, fontweight='bold')
     for spine in ax.spines.values():
         spine.set_color("black")
         spine.set_linewidth(1.2)
-    ax.tick_params(axis='x', labelsize=14)
-    ax.tick_params(axis='y', labelsize=12)
+    ax.tick_params(axis='x', labelsize=16)
+    ax.tick_params(axis='y', labelsize=16)
     for label in ax.get_xticklabels() + ax.get_yticklabels():
         label.set_fontweight('bold')
 
