@@ -4,10 +4,11 @@ This folder contains the implementation of the **S2G-MAS-SR** framework for auto
 
 ## Components
 
-- `00 - S2G-MAS-SR-NoRag.ipynb` → Jupyter Notebook to run the framework **without RAG**.
-- `00 - S2G-MAS-SR-Rag.ipynb` → Jupyter Notebook to run the framework **with RAG**.
-- `config/` → Configuration files (model parameters, API keys, LangGraph settings).
-- `requirements.txt` → Required Python packages.
+- `00 - S2G-MAS-SR-NoRag.ipynb`: Jupyter Notebook to run the framework **without RAG**.
+- `00 - S2G-MAS-SR-Rag.ipynb`: Jupyter Notebook to run the framework **with RAG**.
+- `config/`: Configuration files (model parameters, API keys, LangGraph settings).
+- `requirements.txt`: Required Python packages.
+- `00-Query`: Logs and generated outputs.
 
 ## Architecture Overview
 

@@ -32,18 +32,16 @@ This architecture is based on LangChain and LangGraph, and leverages Retrieval-A
 
 ## How to Use (Jupyter Notebook Workflow)
 
-1. Install requirements listed in the `requirements.txt` file.
+1. Install requirements listed in the `00 - S2G-MAS-SR/requirements.txt` file.
 
-2. (Optional) If running in a virtual environment, activate it.
-
-3. Configure API keys and environment variables:  
+2. Configure API keys and environment variables:  
    Edit the config files in:
 
     ```
     00 - S2G-MAS-SR/config/
     ```
 
-4. Launch Jupyter Lab or Jupyter Notebook from the project root:
+3. Launch Jupyter Lab or Jupyter Notebook from the project root:
 
     ```bash
     jupyter lab
@@ -51,7 +49,7 @@ This architecture is based on LangChain and LangGraph, and leverages Retrieval-A
     jupyter notebook
     ```
 
-5. Run the multi-agent system notebook:
+4. Run the multi-agent system notebook:
 
 - **Without RAG**:  
   - `00 - S2G-MAS-SR-NoRag.ipynb`
