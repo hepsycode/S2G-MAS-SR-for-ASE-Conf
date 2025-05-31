@@ -8,10 +8,10 @@ This folder contains the evaluation scripts for assessing:
 
 ## Files
 
-- `Metrics.ipynb` → Implementations of similarity and IR metrics
-- `Sustainability.ipynb` → Implementations of sustainability metrics
-- `00 - Metrics Results/` → Folder where experiment similarity and IR metrics results are stored
-- `01 - Sustainability/` → Folder where experiment similarity and IR metrics results are stored
+- `Metrics.ipynb`: Implementations of similarity and IR metrics
+- `Sustainability.ipynb`: Implementations of sustainability metrics
+- `00 - Metrics Results/`: Folder where experiment similarity and IR metrics results are stored
+- `01 - Sustainability/`: Folder where experiment similarity and IR metrics results are stored
 
 ## Metrics Implemented
 
