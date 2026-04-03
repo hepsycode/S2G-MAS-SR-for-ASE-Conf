@@ -2,7 +2,7 @@
 
 **From Search String Generation to Study Selection: A Multi-Agent Generative AI Framework for Systematic Reviews**  
 
-### Submitted to ASE Conference 2025
+### Submitted to SEAA Conference 2026
 
 ---
 
