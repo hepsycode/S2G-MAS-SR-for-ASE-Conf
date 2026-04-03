@@ -26,7 +26,7 @@ The package includes:
 
 ## Framework Architecture
 
-![SLR Workflow](img/SLR-workflowNew.png)
+![SLR Workflow](img/SLR-workflowNew.png) 
 
 This architecture is based on LangChain and LangGraph, and leverages Retrieval-Augmented Generation (RAG) techniques for search string refinement.
 
